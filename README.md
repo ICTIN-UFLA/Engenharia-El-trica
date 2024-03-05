@@ -28,3 +28,7 @@ Este é um projeto colaborativo, e sua contribuição vai aumentar a voltagem! S
 Dúvidas sobre o curso ou quer discutir contribuições específicas? Sua curiosidade é bem-vinda aqui.
 
 Com a colaboração de todos, vamos amplificar o conhecimento, beneficiando não só a galera de Engenharia Elétrica, mas toda a comunidade acadêmica e profissional. Valeu por se conectar e contribuir com a nossa rede!
+
+
+*Versão criada pelo prof Johnatan Oliveira* 
+
